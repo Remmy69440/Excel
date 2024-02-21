@@ -5,6 +5,7 @@
 - [Overview](#overview)
 - [Project Structure](#project-structure)
 - [Data Source](#data-source)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 - [Data Analysis](#data-analysis)
 - [Interactive Dashboard](#interactive-dashboard)
 - [Conclusion](#conclusion)
@@ -21,6 +22,13 @@ The project consists of three primary sheets:
 
 ## Data Source
 The data for this project was sourced from GitHub. XLOOKUP function was used to fill in missing rows from the `customer` and `products` sheets into the `order` sheet, ensuring comprehensive data for analysis.
+
+## Exploratory Data Analysis (EDA)
+The following steps were taken during the EDA process:
+- Checking for missing values and handling them appropriately, using XLOOKUP to fill in missing rows from `customer` and `products` sheets into the `order` sheet.
+- Exploring the distribution of key variables such as sales, quantity, and unit price.
+- Analyzing the relationship between variables, such as sales and product type, customer demographics, and loyalty card status.
+- Identifying any outliers or anomalies in the data and addressing them as necessary.
 
 ## Data Analysis
 The following steps were taken to analyze the data:
