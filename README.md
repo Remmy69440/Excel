@@ -12,6 +12,7 @@
 ## Overview
 This Excel project involves the analysis and visualization of sales data for a coffee company. The project utilizes three main sheets: `order`, `customer`, and `products`. The `order` sheet contains information about individual orders, including order details, customer details, and product details. The `customer` sheet holds customer information, while the `products` sheet stores data related to various coffee products.
 
+
 ## Project Structure
 The project consists of three primary sheets:
 - **Order Sheet:** Contains columns for Order ID, Order Date, Customer ID, Product ID, Quantity, Customer Name, Email, Country, Coffee Type, Roast Type, Size, Unit Price, Sales, Coffee Type Name, Roast Type Name, and Loyalty Card.
@@ -36,6 +37,8 @@ An interactive dashboard was created to provide a user-friendly interface for ex
 - Total sales trend over time.
 - Sales breakdown by country.
 - Top 5 customers based on sales.
+
+![coffeeSales_dashboard](https://github.com/Remmy69440/Excel/assets/159604919/2e4809f0-156d-4800-9535-98a4f396e374)
 
 ## Conclusion
 This Excel project offers valuable insights into the sales performance of the coffee company. The interactive dashboard provides a convenient way to analyze different aspects of the data and identify key trends and patterns.
